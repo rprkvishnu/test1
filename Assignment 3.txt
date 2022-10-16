@@ -1,0 +1,13 @@
+GOKARAJU RANGARAJU INSTITUTE OF ENGINEERING AND TECHNOLOGY
+
+ARTIFICIAL INTELLIGENCE
+
+Course Code: GR20A3046
+
+QUESTION BANK - UNIT III
+
+1. Label the term “Uncertainty” with an example.
+2. What is mean by Acting under Uncertainty in the World Model?
+3. Elaborate the concept of basic probability notion in detail.
+4. Write a note on Probability theory, Utility theory and Decision theory.
+5. List the various Axioms of Probability.
